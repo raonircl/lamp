@@ -1,0 +1,16 @@
+head, main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+button{
+    width: 80px;
+    background-color: rgb(177, 166, 166);
+    color: white;
+    padding: 5px;
+    border-radius: 19px;
+    font-size: 1.0rem;
+    outline: none;
+    cursor: pointer;
+    border: 2px solid black;
+}
